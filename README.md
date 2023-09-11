@@ -31,9 +31,7 @@ The project includes the following components:
 The Fake News Detection System project leveraged the following technologies:
 
 - Python: The primary programming language used for data preprocessing, model development, and application building.
-- Natural Language Processing (NLP) Libraries: Including NLTK, Scikit-learn, TensorFlow, and PyTorch for text analysis and modeling.
 - Data Visualization: Matplotlib and Seaborn were used for visualizing data and model performance.
-- Web Development Technologies: If applicable, web development tools and frameworks were used to create a real-time detection application.
 
 
 
